@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+  background: #1e293b;
+}
+
+section {
+  padding: 20px;
+}
+
+.project {
+  background: #1e293b;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 10px;
+}
